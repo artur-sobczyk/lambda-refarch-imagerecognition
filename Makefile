@@ -1,4 +1,4 @@
-AWS_BRANCH ?= dev
+AWS_BRANCH = artdev
 STACK_NAME ?= photo-sharing
 GRAPHQL_API_ID ?= "UNDEFINED"
 APPSYNC_URL ?= "UNDEFINED"
